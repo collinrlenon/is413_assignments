@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C4D6CA95-A36A-44E9-998B-63CBEC9565D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstWebApp/Program.cs">
+    <Files>
+      <File FileName="MyFirstWebApp/Program.cs" Line="13" Column="6" />
+      <File FileName="MyFirstWebApp/Startup.cs" Line="1" Column="1" />
+      <File FileName="MyFirstWebApp/appsettings.json" Line="8" Column="5" />
+      <File FileName="MyFirstWebApp/package.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstWebApp" expanded="True">
+            <Node name="MyFirstWebApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyFirstWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

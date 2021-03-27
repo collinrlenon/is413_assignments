@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D10E1CEC-6886-43C4-84B0-7844AD5BB994}|Default">
+  <MonoDevelop.Ide.ItemProperties.OnlineBookstore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineBookstore/Program.cs">
+    <Files>
+      <File FileName="OnlineBookstore/Program.cs" Line="8" Column="30" />
+      <File FileName="OnlineBookstore/Properties/launchSettings.json" Line="20" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineBookstore" expanded="True">
+            <Node name="OnlineBookstore" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

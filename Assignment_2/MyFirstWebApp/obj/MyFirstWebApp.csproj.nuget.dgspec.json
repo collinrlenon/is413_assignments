@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignments\\Assignment_2\\MyFirstWebApp\\MyFirstWebApp.csproj": {}
+    "/Users/collinrlenon/Desktop/GitHub/is413_assignments/Assignment_2/MyFirstWebApp/MyFirstWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignments\\Assignment_2\\MyFirstWebApp\\MyFirstWebApp.csproj": {
+    "/Users/collinrlenon/Desktop/GitHub/is413_assignments/Assignment_2/MyFirstWebApp/MyFirstWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignments\\Assignment_2\\MyFirstWebApp\\MyFirstWebApp.csproj",
+        "projectUniqueName": "/Users/collinrlenon/Desktop/GitHub/is413_assignments/Assignment_2/MyFirstWebApp/MyFirstWebApp.csproj",
         "projectName": "MyFirstWebApp",
-        "projectPath": "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignments\\Assignment_2\\MyFirstWebApp\\MyFirstWebApp.csproj",
-        "packagesPath": "C:\\Users\\colli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignments\\Assignment_2\\MyFirstWebApp\\obj\\",
+        "projectPath": "/Users/collinrlenon/Desktop/GitHub/is413_assignments/Assignment_2/MyFirstWebApp/MyFirstWebApp.csproj",
+        "packagesPath": "/Users/collinrlenon/.nuget/packages/",
+        "outputPath": "/Users/collinrlenon/Desktop/GitHub/is413_assignments/Assignment_2/MyFirstWebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\colli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/collinrlenon/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
