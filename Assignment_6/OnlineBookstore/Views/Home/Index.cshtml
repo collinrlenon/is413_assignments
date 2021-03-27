@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model BookListViewModel
+
+<link href="~/css/style.css" rel="stylesheet" />
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Online Booktore!</h1>
+    <br /><br />
+</div>
+
+<div>
+    <!-- Create Table to store info from database -->
+    <table class="table-hover table-striped">
+        <!-- Columns titles -->
+        <thead>
+            <tr><th>Book ID</th><th>Title</th><th>Author First Name</th><th>Author Last Name</th><th>Publisher</th><th>ISBN</th><th>Classification</th><th>Category</th><th>Price</th><th>Pages</th></tr>
+        </thead>
+
+        <!-- Fill the rows with the data from the model -->
+        <tbody>
+            @foreach (var i in Model.Books)
+            {
+            <tr>
+                <td>@i.BookID</td>
+                <td>@i.Title</td>
+                <td>@i.AuthorFirstName</td>
+                <td>@i.AuthorLastName</td>
+                <td>@i.Publisher</td>
+                <td>@i.ISBN</td>
+                <td>@i.Classification</td>
+                <td>@i.Category</td>
+                <td>$@i.Price </td>
+                <td>@i.Pages </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<br /><br />
+<!-- Add the page navigation (pagination) -->
+<div page-model="@Model.PagingInfo"
+     page-action="Index"
+     page-class-enabled="true"
+     page-class="btn"
+     page-class-normal="btn-outline-dark"
+     page-class-selected="btn-primary"
+     class="btn-group pull-right m-1">
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />

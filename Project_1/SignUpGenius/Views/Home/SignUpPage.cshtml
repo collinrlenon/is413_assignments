@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "Sign Up Page";
+}
+
+@model MainPageModel
+
+<div class="container col-12 shadow-lg p-3 mb-5 rounded text-white" style="border: 3px solid black;
+        background-color: #6c95e6">
+    <div class="text-center">
+        <h1>Sign Up Here!</h1>
+    </div>
+    <br />
+
+    <div>
+        <h4 class="text-center">Choose your time slot:</h4>
+        <br />
+
+        <!-- Form to type select day and time for temple tour. -->
+        <form asp-action="SignUpPage" method="post" class="text-center">
+            <div class="row justify-content-center">
+                <div class="col text-center">
+                    <h5>Monday</h5>
+                    @*These foreach loops output the available times for each day*@
+                    @foreach (var x in Model.dayViewModel.Monday)
+                    {
+                        <input type="radio" name="time" asp-for="formModel.Time" value="@x.Day, @x.Time" id="@x.TimeID" /><label for="@x.TimeID">@x.Time</label><br />
+                    }
+                </div>
+                <div class="col text-center">
+                    <h5>Tuesday</h5>
+                    @foreach (var x in Model.dayViewModel.Tuesday)
+                    {
+                        <input type="radio" name="time" asp-for="formModel.Time" value="@x.Day, @x.Time" id="@x.TimeID" /><label for="@x.TimeID">@x.Time</label><br />
+                    }
+                </div>
+                <div class="col text-center">
+                    <h5>Wednesday</h5>
+                    @foreach (var x in Model.dayViewModel.Wednesday)
+                    {
+                        <input type="radio" name="time" asp-for="formModel.Time" value="@x.Day, @x.Time" id="@x.TimeID" /><label for="@x.TimeID">@x.Time</label><br />
+                    }
+                </div>
+                <div class="col text-center">
+                    <h5>Thursday</h5>
+                    @foreach (var x in Model.dayViewModel.Thursday)
+                    {
+                        <input type="radio" name="time" asp-for="formModel.Time" value="@x.Day, @x.Time" id="@x.TimeID" /><label for="@x.TimeID">@x.Time</label><br />
+                    }
+                </div>
+                <div class="col text-center">
+                    <h5>Friday</h5>
+                    @foreach (var x in Model.dayViewModel.Friday)
+                    {
+                        <input type="radio" name="time" asp-for="formModel.Time" value="@x.Day, @x.Time" id="@x.TimeID" /><label for="@x.TimeID">@x.Time</label><br />
+                    }
+                </div>
+                <div class="col text-center">
+                    <h5>Saturday</h5>
+                    @foreach (var x in Model.dayViewModel.Saturday)
+                    {
+                        <input type="radio" name="time" asp-for="formModel.Time" value="@x.Day, @x.Time" id="@x.TimeID" /><label for="@x.TimeID">@x.Time</label><br />
+                    }
+                </div>
+                <div class="col text-center">
+                    <h5>Sunday</h5>
+                    @foreach (var x in Model.dayViewModel.Sunday)
+                    {
+                        <input type="radio" name="time" asp-for="formModel.Time" value="@x.Day, @x.Time" id="@x.TimeID" /><label for="@x.TimeID">@x.Time</label><br />
+                    }
+                </div>
+            </div>
+            <br />
+            <button type="submit" id="submit1" class="btn btn-danger">Submit</button>
+        </form>
+    </div>
+</div>

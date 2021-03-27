@@ -1,0 +1,15 @@
+﻿body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lightgrey;
+}
+
+label {
+    font-size: 20px;
+    color: dodgerblue;
+    width: 150px;
+    display: inline-block;
+}
+
+ul.quiz-props li {
+    list-style-type: none;
+}

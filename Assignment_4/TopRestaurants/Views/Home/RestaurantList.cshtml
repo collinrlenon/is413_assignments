@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Restaurant List";
+}
+
+@model IEnumerable<FormModel>
+
+<h1>@ViewBag.Title</h1>
+
+<div style="text-align:right">
+    <a asp-area="" asp-controller="Home" asp-action="RestaurantForm">Add Another Restaurant</a>
+</div>
+<br />
+
+<h4>Here is the list of your restaurants!</h4>
+
+<div class="list-group">
+    <!-- Create an ordered list and print out the data -->
+    <ol>
+        @foreach (FormModel fm in Model)
+        {
+            <li class="list-group-item">User Name: @fm.UserName | Restaurant Name: @fm.RestaurantName | Favorite Dish: @fm.FavDish | Phone: @fm.Phone</li>
+        }
+    </ol>
+</div>

@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home page";
+    ViewData["Header"] = "Restaurant Recommendation List";
+}
+
+@model IEnumerable<string>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h4>Here is where you'll find great restaurants!</h4><br />
+    <img style="max-width:30%" src="~/img/restaurant.jpg" />
+</div>
+<br />
+<br />
+
+
+<h3>@ViewBag.Header</h3>
+
+<div class="list-group">
+    <!-- Create an unordered list and loop through to print out the data -->
+    <ul>
+        @foreach (string i in Model)
+        {
+            <li class="list-group-item">@i</li>
+        }
+    </ul>
+</div>

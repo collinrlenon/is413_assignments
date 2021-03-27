@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Movie List";
+}
+
+@model IEnumerable<Movies>
+
+<link href="~/css/styles.css" rel="stylesheet" />
+
+<div>
+    <h3 class="display-4 text-center">@ViewData["Title"]</h3>
+
+    <div style="text-align:right">
+        <a asp-area="" asp-controller="Home" asp-action="AddMovie">Add Another Movie</a>
+    </div><br />
+
+    <table class="table table-hover table-striped text-center justify-content-center" style="back">
+        <thead>
+            <tr>
+                <th style="background-color: #6c95e6">Category</th>
+                <th style="background-color: #6c95e6">Title</th>
+                <th style="background-color: #6c95e6">Year</th>
+                <th style="background-color: #6c95e6">Director</th>
+                <th style="background-color: #6c95e6">Rating</th>
+                <th style="background-color: #6c95e6">Edited</th>
+                <th style="background-color: #6c95e6">Lent To</th>
+                <th style="background-color: #6c95e6">Notes</th>
+                <th style="background-color: #6c95e6"></th>
+                <th style="background-color: #6c95e6"></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (Movies movie in Model)
+            {
+                <tr>
+                    <td>@movie.Category</td>
+                    <td>@movie.Title</td>
+                    <td>@movie.Year</td>
+                    <td>@movie.Director</td>
+                    <td>@movie.Rating</td>
+                    <td>@movie.Edited</td>
+                    <td>@movie.LentTo</td>
+                    <td>@movie.Notes</td>
+                    <td class="justify-content-center text-center">
+                        <form id="@movie.MovieID" asp-action="EditMovie" method="post">
+                            <input type="hidden" value="@movie.MovieID" name="id" />
+                            <span class="card-text p-1">
+                                <button type="submit" class="btn btn-danger">Edit</button>
+                            </span>
+                        </form>
+                    </td>
+                    <td class="justify-content-center text-center">
+                        <form id="@movie.MovieID" asp-action="DeleteMovie" method="post">
+                            <input type="hidden" value="@movie.MovieID" name="id" />
+                            <span class="card-text p-1">
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </span>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

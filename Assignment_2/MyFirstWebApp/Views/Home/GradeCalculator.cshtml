@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.h1 = "Let's calculate some grades";
+}
+
+@model GradeCalculatorModel 
+
+<body>
+    <!-- Grade Calculator-->
+    <h2>Grade Calculator</h2>
+    <!-- My form -->
+    <form method="post">
+        <label>Assignments:</label>
+        <input id="assignments" asp-for="assignments" />
+        <br /><br />
+
+        <label>Group Projects:</label>
+        <input id="grpproj" asp-for="grpproj" />
+        <br /><br />
+
+        <label>Quizzes:</label>
+        <input id="quizzes" asp-for="quizzes" />
+        <br /><br />
+
+        <label>Exams:</label>
+        <input id="exams" asp-for="exams" />
+        <br /><br />
+
+        <label>INTEX:</label>
+        <input id="intex" asp-for="intex" />
+        <br /><br />
+
+        <input type="submit" value="Calculate" id="submitButton" />
+        <br /><br />
+
+        <div asp-validation-summary="All" style="color:red"></div>
+
+        <script src="~/js/script.js"></script>
+    </form>
+</body>

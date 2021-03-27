@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Sign Up Page";
+}
+
+@model FormModel
+
+<div class="container col-11 shadow-lg p-3 mb-5 rounded text-white" style="border: 3px solid black; background-color: #6c95e6">
+    <div class="text-center">
+        <h1>Confirm your Appointment!</h1>
+        <h6>Fill out this form to confirm your Layton Utah Temple Tour</h6>
+    </div>
+    <br />
+
+    <div>
+        <!-- Form to type in and submit time, name, size, email, and phone number for tour group to the tour group. -->
+        <form asp-action="SignUpForm" method="post" class="text-center">
+            <div>
+                <div class="form-group row justify-content-center">
+                    <label asp-for="Time" class="col-sm-2 col-form-label">Time Slot:</label>
+                    <input type="text" asp-for="Time" value="@Model.Time" class="col-sm-3 form-control-plaintext text-white" readonly />
+                </div>
+                <div class="form-group row justify-content-center">
+                    <label asp-for="Name" class="col-sm-2 col-form-label">Name of Group:</label>
+                    <input asp-for="Name" class="col-sm-3 form-control" />
+                </div>
+                <div class="form-group row justify-content-center">
+                    <label asp-for="Size" class="col-sm-2 col-form-label">Size of Group:</label>
+                    <input asp-for="Size" class="col-sm-3 form-control" min="1" placeholder="" />
+                </div>
+                <div class="form-group row justify-content-center">
+                    <label asp-for="Email" class="col-sm-2 col-form-label">Email Address:</label>
+                    <input asp-for="Email" class="col-sm-3 form-control" placeholder="email@example.com" />
+                </div>
+                <div class="form-group row justify-content-center">
+                    <label asp-for="Phone" class="col-sm-2 col-form-label">Phone Number:</label>
+                    <input asp-for="Phone" class="col-sm-3 form-control" placeholder="123-456-7890 (Optional)" />
+                </div>
+            </div>
+
+            <br />
+            <button type="submit" id="submit2" class="btn btn-danger">Submit</button>
+
+            <br /><br />
+            <div asp-validation-summary="All" style="color:red"></div>
+        </form>
+    </div>
+</div>

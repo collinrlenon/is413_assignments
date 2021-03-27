@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Restaurant Form";
+}
+
+@model TopRestaurants.Models.FormModel
+
+<link href="~/css/style.css" rel="stylesheet" />
+
+
+<h1>@ViewBag.Title</h1>
+
+<br />
+<p>Fill in this form to add a new restaurant to your list!</p>
+
+<!-- Form to type in and submit restaurant -->
+<form asp-action="RestaurantForm" method="post">
+    <div>
+        <label asp-for="UserName">User Name:</label>
+        <input asp-for="UserName" />
+    </div>
+    <div>
+        <label asp-for="RestaurantName">Restaurant Name:</label>
+        <input asp-for="RestaurantName" />
+    </div>
+    <div>
+        <label asp-for="FavDish">Favorite Dish:</label>
+        <input asp-for="FavDish" />
+    </div>
+    <div>
+        <label asp-for="Phone">Phone:</label>
+        <input asp-for="Phone" /> (ex. 888-888-8888)
+    </div>
+    <br />
+    <button class="btn btn-primary" type="submit" id="submit">Add Restuarant</button>
+
+    <br /><br />
+    <div asp-validation-summary="All" style="color:red"></div>
+</form>

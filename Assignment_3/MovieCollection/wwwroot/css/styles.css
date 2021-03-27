@@ -1,0 +1,32 @@
+﻿table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    height: 50px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 20px;
+}
+
+th, td {
+    padding: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+label {
+    width: 75px;
+    display: inline-block;
+}
+
+select, input {
+    width: 200px;
+}

@@ -1,0 +1,115 @@
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.exe
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.deps.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.runtimeconfig.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.runtimeconfig.dev.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.dll
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.pdb
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.Views.dll
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.Views.pdb
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csprojAssemblyReference.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.AssemblyInfoInputs.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.AssemblyInfo.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorAssemblyInfo.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorAssemblyInfo.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\staticwebassets\TopRestaurants.StaticWebAssets.Manifest.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\staticwebassets\TopRestaurants.StaticWebAssets.xml
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\scopedcss\bundle\TopRestaurants.styles.css
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.TagHelpers.input.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.TagHelpers.output.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorCoreGenerate.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\RecommendationList.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\RestaurantForm.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\RestaurantList.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorTargetAssemblyInfo.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorTargetAssemblyInfo.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.Views.pdb
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.dll
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.pdb
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.genruntimeconfig.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csproj.CopyComplete
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.exe
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.deps.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.runtimeconfig.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.runtimeconfig.dev.json
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.dll
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.pdb
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.Views.dll
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.Views.pdb
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csprojAssemblyReference.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.AssemblyInfoInputs.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.AssemblyInfo.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorAssemblyInfo.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorAssemblyInfo.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\staticwebassets\TopRestaurants.StaticWebAssets.Manifest.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\staticwebassets\TopRestaurants.StaticWebAssets.xml
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\scopedcss\bundle\TopRestaurants.styles.css
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.TagHelpers.input.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.TagHelpers.output.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorCoreGenerate.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\RestaurantForm.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\RestaurantList.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorTargetAssemblyInfo.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorTargetAssemblyInfo.cs
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.Views.pdb
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.dll
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.pdb
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.genruntimeconfig.cache
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csproj.CopyComplete
+C:\Users\colli\Google Drive\Laptops\Classes\2020-2021 (Junior)\Winter 2021\IS 413\Assignment_4\TopRestaurants\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.exe
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.deps.json
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.runtimeconfig.json
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.runtimeconfig.dev.json
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.dll
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.pdb
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.Views.dll
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\bin\Debug\netcoreapp3.1\TopRestaurants.Views.pdb
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csprojAssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.AssemblyInfoInputs.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.AssemblyInfo.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorAssemblyInfo.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorAssemblyInfo.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\staticwebassets\TopRestaurants.StaticWebAssets.Manifest.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\staticwebassets\TopRestaurants.StaticWebAssets.xml
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\scopedcss\bundle\TopRestaurants.styles.css
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.TagHelpers.input.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.TagHelpers.output.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorCoreGenerate.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\RestaurantForm.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Home\RestaurantList.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorTargetAssemblyInfo.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.RazorTargetAssemblyInfo.cs
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.Views.pdb
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.dll
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.pdb
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.genruntimeconfig.cache
+C:\Users\colli\OneDrive\Desktop\GitHub\IS413_repo\Assignments\Assignment_4\TopRestaurants\obj\Debug\netcoreapp3.1\TopRestaurants.csproj.CopyComplete

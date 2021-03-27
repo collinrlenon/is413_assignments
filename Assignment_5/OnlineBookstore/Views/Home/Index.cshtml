@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IQueryable<Book>
+
+<link href="~/css/style.css" rel="stylesheet" />
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Online Booktore!</h1>
+    <br /><br />
+</div>
+
+<div>
+    <!-- Create Table to store info from database -->
+    <table>
+        <!-- Columns titles -->
+        <thead>
+            <tr><th>Book ID</th><th>Title</th><th>Author First Name</th><th>Author Last Name</th><th>Publisher</th><th>ISBN</th><th>Classification</th><th>Category</th><th>Price</th></tr>
+        </thead>
+
+        <!-- Fill the rows with the data from the model -->
+        <tbody>
+            @foreach (var i in Model)
+            {
+            <tr>
+                <td>@i.BookID</td>
+                <td>@i.Title</td>
+                <td>@i.AuthorFirstName</td>
+                <td>@i.AuthorLastName</td>
+                <td>@i.Publisher</td>
+                <td>@i.ISBN</td>
+                <td>@i.Classification</td>
+                <td>@i.Category</td>
+                <td>$@i.Price </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

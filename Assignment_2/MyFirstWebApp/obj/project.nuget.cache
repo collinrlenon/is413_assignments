@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgPcLl6ZVZ438ojtkO9j1GuEhfX8D2bHr1Rd8puNl6tMj4bbtYmLQ7ybavU4CPLhML9OX3mZfdqwoWRErfSynQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\colli\\OneDrive\\Desktop\\GitHub\\IS413_repo\\Assignments\\Assignment_2\\MyFirstWebApp\\MyFirstWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\colli\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

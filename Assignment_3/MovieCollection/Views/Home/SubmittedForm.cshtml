@@ -1,0 +1,32 @@
+﻿@{
+}
+
+@model MovieCollection.Models.ApplicationResponse
+
+
+<div>
+
+    
+    <!-- Dynamically changing the page based on Title input -->
+    @if (Model.Title.ToLower() == "Independence Day".ToLower())
+    {
+        ViewBag.Title = "Denied";
+        ViewBag.h2 = "The movie \"" + Model.Title + "\" cannot be added to your Movie List.";
+
+        <h2 style="color:red">@ViewBag.h2</h2>
+    }
+    else
+    {
+        ViewBag.Title = "Confirmation";
+        ViewBag.h2 = "The movie \"" + Model.Title + "\" has been added to your Movie List.";
+
+        <h2 style="color:green">@ViewBag.h2</h2>
+    }
+    <br />
+    <!-- Link to other pages -->
+    <div>
+        Click <a asp-action="MovieForm">here</a> if you would like to add another movie to the list.<br />
+        Click <a asp-action="MovieList">here</a> to see your current list of movies.
+    </div>
+
+</div>

@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Collin's Website</title>
+
+    <!-- Add icon -->
+    <link rel="icon" href="img/t_ball.png" type="image/png">
+
+    <!-- Add css -->
+    <link href="~/css/main.css" rel="stylesheet" />
+
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>@ViewBag.h1</h1>
+        <h2>Best Class: @ViewBag.BestClassEver</h2>
+        <menu>
+            <ul>
+                <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                <li><a asp-controller="Home" asp-action="GradeCalculator">Grade Calculator</a></li>
+            </ul>
+        </menu>
+    </header>
+
+    <!-- Pull in other code -->
+    @RenderBody()
+
+    <footer>
+        Collin Lenon 2020
+    </footer>
+
+    <!-- Add Javascript -->
+    <script src="~/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <script src="~/js/script.js"></script>
+</body>
+</html>

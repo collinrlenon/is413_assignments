@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "My Movie List";
+}
+
+@model IEnumerable<MovieCollection.Models.ApplicationResponse>
+
+<link href="~/css/styles.css" rel="stylesheet" />
+
+<div>
+    <h1>@ViewBag.Title</h1>
+
+    <div style="text-align:right">
+        <a asp-area="" asp-controller="Home" asp-action="MovieForm">Add Another Movie</a>
+    </div><br />
+
+    <div>
+        <table>
+            <!-- Columns titles -->
+            <thead>
+                <tr><th>Category</th><th>Title</th><th>Year</th><th>Director</th><th>Rating</th><th>Edited</th><th>Lent To</th><th>Notes</th></tr>
+            </thead>
+
+            <!-- Fill the rows with the data from the model -->
+            <tbody>
+                @foreach (MovieCollection.Models.ApplicationResponse x in Model)
+                {
+                    <tr>
+                        <td>@x.Category</td>
+                        <td>@x.Title</td>
+                        <td>@x.Year</td>
+                        <td>@x.Director</td>
+                        <td>@x.Rating</td>
+                        <td style="color:green">@x.Edited</td>
+                        <td style="color:red">@x.LentTo </td>
+                        <td>@x.Notes</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

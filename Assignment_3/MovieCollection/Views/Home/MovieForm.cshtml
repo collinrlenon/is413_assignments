@@ -1,0 +1,64 @@
+﻿@{
+    ViewBag.Title = "My Movie Form";
+}
+
+@model MovieCollection.Models.ApplicationResponse
+
+<link href="~/css/styles.css" rel="stylesheet" />
+
+
+<h1>@ViewBag.Title</h1>
+
+<br />
+<p>Fill in this form to add a new movie to your collection!</p>
+
+<!-- Form to type in and submit movies to collection -->
+<form asp-action="MovieForm" method="post">
+    <div>
+        <label asp-for="Category">Category:</label>
+        <input asp-for="Category" />
+    </div>
+    <div>
+        <label asp-for="Title">Title:</label>
+        <input asp-for="Title" />
+    </div>
+    <div>
+        <label asp-for="Year">Year:</label>
+        <input asp-for="Year" />
+    </div>
+    <div>
+        <label asp-for="Director">Director:</label>
+        <input asp-for="Director" />
+    </div>
+    <div>
+        <label asp-for="Rating">Rating:</label>
+        <select asp-for="Rating">
+            <option value="">Select One</option>
+            <option value="G">G</option>
+            <option value="PG">PG</option>
+            <option value="PG-13">PG-13</option>
+            <option value="R">R</option>
+        </select>
+    </div>
+    <div>
+        <label asp-for="Edited">Edited:</label>
+        <select asp-for="Edited">
+            <option value="">Select One</option>
+            <option value="true">Yes</option>
+            <option value="false">No</option>
+        </select>
+    </div>
+    <div>
+        <label asp-for="LentTo">Lent To:</label>
+        <input asp-for="LentTo" />
+    </div>
+    <div>
+        <label asp-for="Notes">Notes:</label>
+        <input asp-for="Notes" />
+    </div>
+    <br />
+    <button type="submit" id="submit">Add Movie</button>
+
+    <br /><br />
+    <div asp-validation-summary="All" style="color:red"></div>
+</form>
