@@ -6,6 +6,7 @@
     <title>MovieCollection - @ViewData["Title"]</title>
     <link href="~/lib/purecss/build/pure.css" rel="stylesheet" />
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/fontawesome/css/all.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
@@ -18,17 +19,17 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
+                    <ul class="navbar-nav flex-grow-1 list-group">
+                        <li class="nav-item border-left border-right">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item border-right">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Podcasts">Podcasts</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item border-right">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AddMovie">Add Movie</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item border-right">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="MovieList">Movie List</a>
                         </li>
                     </ul>

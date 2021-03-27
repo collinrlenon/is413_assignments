@@ -2,31 +2,26 @@
     border: 1px solid black;
 }
 
-th {
+/*th {
     height: 50px;
-    background-color: cornflowerblue;
     color: white;
     font-size: 16px;
-}
+}*/
 
-th, td {
+/*th, td {
     padding: 5px;
-}
+}*/
 
 table {
     width: 100%;
     border-collapse: separate;
 }
 
-tr:nth-child(even) {
-    background-color: #f2f2f2;
-}
-
-label {
+/*label {
     width: 75px;
     display: inline-block;
-}
+}*/
 
-select, input {
+/*select, input {
     width: 200px;
-}
+}*/
