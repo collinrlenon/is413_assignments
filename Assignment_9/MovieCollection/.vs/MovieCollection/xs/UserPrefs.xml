@@ -1,8 +1,14 @@
 ﻿<Properties StartupConfiguration="{032BFF0D-0F4F-40C1-92BA-B737109AEC03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
     <Files>
       <File FileName="Views/Home/MovieList.cshtml" Line="58" Column="92" />
-      <File FileName="Views/Shared/_Layout.cshtml" Line="39" Column="30" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="32" Column="43" />
+      <File FileName="Models/Movies.cs" Line="1" Column="1" />
+      <File FileName="Models/MovieCollectionDBContext.cs" Line="11" Column="63" />
+      <File FileName="Models/IMovieCollectionRepository.cs" Line="1" Column="1" />
+      <File FileName="Models/EFMovieCollectionRepository.cs" Line="13" Column="33" />
+      <File FileName="Controllers/HomeController.cs" Line="20" Column="35" />
+      <File FileName="Startup.cs" Line="36" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,10 +21,9 @@
               </Node>
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>

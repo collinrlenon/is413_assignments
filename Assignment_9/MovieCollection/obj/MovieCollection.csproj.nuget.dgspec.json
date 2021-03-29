@@ -14,7 +14,7 @@
         "outputPath": "/Users/collinrlenon/Desktop/GitHub/is413_assignments/Assignment_9/MovieCollection/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/collinrlenon/.nuget/NuGet/NuGet.Config"
+          "/Users/collinrlenon/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

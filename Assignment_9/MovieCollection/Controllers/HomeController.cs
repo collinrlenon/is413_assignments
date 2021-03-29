@@ -17,13 +17,13 @@ namespace MovieCollection.Controllers
 
         private MovieCollectionDBContext _context;
 
-        private IMovieCollectionRepository _repository;
+        //private IMovieCollectionRepository _repository;
 
-        public HomeController(ILogger<HomeController> logger, MovieCollectionDBContext context, IMovieCollectionRepository repository)
+        public HomeController(ILogger<HomeController> logger, MovieCollectionDBContext context)
         {
             _logger = logger;
             _context = context;
-            _repository = repository;
+            //_repository = repository;
         }
 
         //Home page action

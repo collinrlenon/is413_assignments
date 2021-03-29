@@ -32,7 +32,7 @@ namespace MovieCollection
                 options.UseSqlite(Configuration["ConnectionStrings:MovieCollectionConnection"]);
             });
 
-            services.AddScoped<IMovieCollectionRepository, EFMovieCollectionRepository>();
+            //services.AddScoped<IMovieCollectionRepository, EFMovieCollectionRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
