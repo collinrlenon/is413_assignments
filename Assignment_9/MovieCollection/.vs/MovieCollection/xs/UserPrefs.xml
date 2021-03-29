@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{032BFF0D-0F4F-40C1-92BA-B737109AEC03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/MovieList.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="Views/Home/MovieList.cshtml" Line="13" Column="1" />
+      <File FileName="Views/Home/MovieList.cshtml" Line="58" Column="92" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="39" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,10 +10,13 @@
           <Node name="MovieCollection" expanded="True">
             <Node name="MovieCollection" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="MovieList.cshtml" selected="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
                 </Node>
               </Node>
             </Node>

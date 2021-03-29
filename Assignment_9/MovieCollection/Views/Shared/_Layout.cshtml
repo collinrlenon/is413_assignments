@@ -13,7 +13,8 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark border-bottom box-shadow mb-3"
+             style="background-color:gray; font-family:Courier New, Courier, monospace; font-size:large;">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MovieCollection</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -22,24 +23,25 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1 list-group">
-                        <li class="nav-item border-left border-right">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        <li class="nav-item border">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        <li class="nav-item border-right">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Podcasts">Podcasts</a>
+                        <li class="nav-item border">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Podcasts">Podcasts</a>
                         </li>
-                        <li class="nav-item border-right">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AddMovie">Add Movie</a>
+                        <li class="nav-item border">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="AddMovie">Add Movie</a>
                         </li>
-                        <li class="nav-item border-right">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="MovieList">Movie List</a>
+                        <li class="nav-item border">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="MovieList">Movie List</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container"
+         style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
