@@ -1,21 +1,19 @@
 ﻿<Properties StartupConfiguration="{032BFF0D-0F4F-40C1-92BA-B737109AEC03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/MovieList.cshtml">
     <Files>
-      <File FileName="Views/Home/MovieList.cshtml" Line="60" Column="36" />
-      <File FileName="Controllers/HomeController.cs" Line="11" Column="2" />
+      <File FileName="Views/Home/MovieList.cshtml" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MovieCollection" expanded="True">
             <Node name="MovieCollection" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="MovieList.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
